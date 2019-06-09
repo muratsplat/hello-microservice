@@ -79,5 +79,5 @@ Spring in Action%
 
 Well done, we have tried to create new microservice based services by using Spring Boot. 
 
-##Resources
+## Resources
 * https://spring.io/guides/gs/routing-and-filtering/
